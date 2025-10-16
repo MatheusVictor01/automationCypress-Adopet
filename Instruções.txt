@@ -1,0 +1,20 @@
+Iniciar o serviço git (repositorio)
+-- Git init
+
+inciar o serviço npm 
+-- npm init
+
+Instalar versão especifica para a versão 13.6.4
+-- npm install cypress@13.6.4 --save-dev
+
+Abrir a ferramenta Cypress
+-- npx cypress open
+
+Selecionar tipo de teste que vamos utilizar (e2e)
+-- Selecionar e2e testing
+-- Clicar no botão continuar 
+-- Selecionar o navegador
+vai ser aberto um  novo navegador
+-- Selecionar Scaffold example specs ou Create New Specs
+Selecionar create new specs
+	-- cy.js deve ser mantido pois é parte das regras do cypress
