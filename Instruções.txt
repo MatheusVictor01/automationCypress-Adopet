@@ -18,3 +18,4 @@ vai ser aberto um  novo navegador
 -- Selecionar Scaffold example specs ou Create New Specs
 Selecionar create new specs
 	-- cy.js deve ser mantido pois é parte das regras do cypress
+
