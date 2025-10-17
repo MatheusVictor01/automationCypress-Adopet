@@ -19,3 +19,15 @@ vai ser aberto um  novo navegador
 Selecionar create new specs
 	-- cy.js deve ser mantido pois é parte das regras do cypress
 
+------------------------------------------------------------------------------------------------------------------
+Selecionar Elementos -> F12 ou Inspecionar
+-- Inspecionar o elemento cadastrar
+-- 
+
+
+
+----------------------------------------------------------------------------
+Comandos CY.
+cy.contains('a','Cadastrar') -> cypress vai procurar no site os elementos que conteem os argumentos passados ('a', 'Cadastrar')
+.  -> o ponto é a continuação (link) para o cypress realizar a proxima ação
+click() - é a ação que o Cypress irá fazer, click no argumento que foi passado no cy.contais.
